@@ -1,0 +1,12 @@
+### Buscar dados
+GET http://localhost:4000
+Content-Type: application/json
+
+
+### Criar um novo usuário
+POST http://localhost:4000
+Content-Type: application/json
+
+{
+  "total": 100
+}
